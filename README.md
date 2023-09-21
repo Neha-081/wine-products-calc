@@ -6,7 +6,7 @@ This React.js project is designed to measure various statistical data for the Wi
 
 ## Demo
 
-Link - https://realme-clone081.netlify.app/
+Link - https://wine-statistics-4e6823.netlify.app
 
 # Technology
 
