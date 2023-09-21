@@ -1,46 +1,92 @@
-# Getting Started with Create React App
+# Wine Data Set Statistical Measures
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+This React.js project is designed to measure various statistical data for the Wine Data Set. It provides insights into the dataset's characteristics and allows you to measure basic statistical analysis using a web interface.
 
-In the project directory, you can run:
+## Demo
 
-### `yarn start`
+Link - https://realme-clone081.netlify.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Technology
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- ReactJS
+- JavaScript
+- TypeScript
+- CSS
+- HTML
+- yarn
 
-### `yarn test`
+## Table of Contents
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Statistical Measures](#statistical-measures)
+- [Screenshots](#screenshots)
 
-### `yarn build`
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Prerequisites
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Before you begin, ensure you have met the following requirements:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Node.js and npm installed (Node.js version 14+ recommended)
 
-### `yarn eject`
+### Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1. Clone this repository:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```sh
+   git clone git@github.com:Neha-081/wine-products-calc.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+2. Change to the project directory:
+      ```sh
+   cd wine-products-calc
+      
+4. Install the project dependencies:
+    ```sh
+   yarn install
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+6. To run the project locally, use the following command:
+   ```sh
+   yarn start
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This will start the development server, and you can access the project in your web browser at http://localhost:3000.  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+# Statistical Measures
+
+The following statistical measures are calculated in this project:
+
+- [Mean](#mean)
+- [Median](#median)
+- [Mode](#mode)
+
+# Screenshots
+
+Data for Flavanoids
+
+
+
+<img width="390" alt="Screenshot 2023-09-21 at 9 43 48 PM" src="https://github.com/Neha-081/wine-products-calc/assets/87421798/489fce89-fa11-4bb2-8da0-a940b4f02669">
+
+
+
+Data for Gamma
+
+
+
+<img width="387" alt="Screenshot 2023-09-21 at 9 43 56 PM" src="https://github.com/Neha-081/wine-products-calc/assets/87421798/c5adc269-f730-47f3-8134-75da15e19a73">
+
+
+
+
+## Contact
+
+Feel free to reach me ->
+- Email - <nehaprajapati1150@gmail.com> 
+- LinkedIn - https://linkedin.com/in/neha-prajapati-1150
+
+
